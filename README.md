@@ -1,3 +1,5 @@
 # tarea_2_SIG
 
-![](images/Captura_localhost.png)
+![](images/Imagen1.png)
+
+![](images/Imagen2.png)
