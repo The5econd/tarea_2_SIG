@@ -1,5 +1,5 @@
 # tarea_2_SIG
 
-![](/images/Imagen1.png)
+![](/Imagen1.png)
 
-![](/images/Imagen2.png)
+![](/Imagen2.png)
